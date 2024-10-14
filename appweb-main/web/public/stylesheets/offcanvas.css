@@ -1,0 +1,20 @@
+
+aside#offcanvas{
+  padding: 1rem;
+  min-width: 20vh;
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: gray;
+
+  #formulario{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+  }
+ 
+  }
+  
